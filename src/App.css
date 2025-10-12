@@ -1,0 +1,56 @@
+
+h1{
+  color:white ;
+  font-size: 40px;
+  font-weight: 700;
+  text-align: center;
+  
+
+}
+
+button {
+  border-radius: 14px;
+  border: 1px solid transparent;
+  padding:11px 18px;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #1a1a1a;
+  cursor: pointer;
+  transition: border-color 0.25s;
+    color: white;
+  background-color: blue;
+  font-size: 20px;
+}
+button:hover {
+  border-color: #646cff;
+}
+input{
+  padding: 15px;
+  width: 70%;
+  border-radius: 10px;
+  outline: none;
+  font-size: 14px;
+  margin-right: 5px;
+  margin-top: 50px;
+}
+.name, .bio, .repo {
+  color: white;
+  font-size: 20px;
+  font-weight: 400;
+  text-align: center;
+}
+img{
+  color: white;
+  width: 100px;
+  height: 100px;
+}
+@media (max-width: 480px){
+  input{
+    align-items: center;
+    margin-left: 5px;
+  }
+  .name, .bio, .repo{
+    text-align: center;
+  }
+}
