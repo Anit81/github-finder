@@ -34,8 +34,9 @@ function App() {
       { finder &&
         <>
           <div className="combine">
+             <img src={finder.avatar_url} alt={finder.login}width={100} height={100}  /> 
           <p className='name'>User Name:{finder.name}</p>
-        <img src={finder.avatar_url} alt={finder.login}width={100} height={100}  /> 
+       
           </div>
         
         <p className='bio'>Bio: {finder.bio}</p>
