@@ -40,11 +40,12 @@ input{
   font-weight: 400;
   text-align: center;
 }
-.name{
-  padding-top:40px;
+.combine{
+  display:flex;
+  align-items:center;
 }
 img{
-  display:flex;
+  
   color: white;
   width: 100px;
   height: 100px;
