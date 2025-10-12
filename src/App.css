@@ -40,6 +40,9 @@ input{
   font-weight: 400;
   text-align: center;
 }
+.name{
+  padding-top:40px;
+}
 img{
   display:flex;
   color: white;
