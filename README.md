@@ -14,7 +14,7 @@ A React app that tracks prices of items (or crypto/stocks depending on your impl
 - State Management: useState and useEffect
 
 ## How to Run
-1. Clone the repository: `git clone <your-repo-link>`
+1. Clone the repository: `git clone <https://github.com/Anit81/github-finder>`
 2. Go to the project folder: `cd github-price-tracker`
 3. Install dependencies: `npm install`
 4. Start the app: `npm start`
