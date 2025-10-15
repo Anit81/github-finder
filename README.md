@@ -1,12 +1,27 @@
-# React + Vite
+# GitHub Price Tracker 💰
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React app that tracks prices of items (or crypto/stocks depending on your implementation) and displays the top 10 highest/most relevant prices in real-time.
 
-Currently, two official plugins are available:
+## Features
+- Displays the top 10 items by price
+- Shows item details such as name, current price, and change
+- Responsive design for desktop and mobile
+- Real-time updates for accurate tracking
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+- React, JavaScript, HTML, CSS
+- API (custom or public price API)
+- State Management: useState and useEffect
 
-## Expanding the ESLint configuration
+## How to Run
+1. Clone the repository: `git clone <your-repo-link>`
+2. Go to the project folder: `cd github-price-tracker`
+3. Install dependencies: `npm install`
+4. Start the app: `npm start`
+5. Open your browser at [http://localhost:3000](http://localhost:3000)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Live Demo
+Check out the live app here: [https://your-vercel-link.vercel.app](https://your-vercel-link.vercel.app)
+
+## Contact
+Created by **Ibesi Faustina**. Feel free to reach out via GitHub for feedback or collaboration.
