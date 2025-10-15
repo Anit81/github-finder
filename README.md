@@ -21,7 +21,7 @@ A React app that tracks prices of items (or crypto/stocks depending on your impl
 5. Open your browser at [http://localhost:3000](http://localhost:3000)
 
 ## Live Demo
-Check out the live app here: [https://your-vercel-link.vercel.app](https://your-vercel-link.vercel.app)
+Check out the live app here: [https://your-vercel-link.vercel.app](https://my-react-todo-list-app-fejr.vercel.app/)
 
 ## Contact
 Created by **Ibesi Faustina**. Feel free to reach out via GitHub for feedback or collaboration.
