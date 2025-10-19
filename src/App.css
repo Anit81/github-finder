@@ -51,11 +51,24 @@ img{
   height: 100px;
 }
 @media (max-width: 480px){
+  h1{
+    font-size: 18px;
+  }
   input{
     align-items: center;
     margin-left: 5px;
+    width:60%;
+    padding: 10px 15px;
+    
   }
+  button {
+  
+  padding:11px 15px;
+  font-size: 0.8em;
+  font-weight: 500;
+}
   .name, .bio, .repo{
     text-align: center;
+    font-size: 19px;
   }
 }

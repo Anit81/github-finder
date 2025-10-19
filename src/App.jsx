@@ -33,10 +33,10 @@ function App() {
       {error && <p style={{ color: "red" }}>{error}</p>}
       { finder &&
         <>
+
           <div className="combine">
              <img src={finder.avatar_url} alt={finder.login}width={100} height={100}  /> 
           <p className='name'>User Name:{finder.name}</p>
-       
           </div>
         
         <p className='bio'>Bio: {finder.bio}</p>
